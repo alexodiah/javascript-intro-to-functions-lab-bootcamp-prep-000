@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Consolelog logShout String to Uppercase//
 function logShout(string) {
   console.log(string.toUpperCase())
@@ -26,3 +27,16 @@ function sayHiToGrandma(string){
 }else if(string === "I love you, Grandma."){
 return ("I love you, too.")
 }}
+=======
+function shout(string) {
+  return string.toUpperCase()
+}
+
+function whisper(string) {
+  return string.toLowerCase()
+} 
+
+function sayHiToGranma(string) {
+  returns ("I can't hear you!").toLowerCase
+}
+>>>>>>> 399927c53de248edde21cfdf1e2432e402400e72
